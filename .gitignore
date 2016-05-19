@@ -2,3 +2,8 @@ src/.vscode/
 src/bin/
 src/obj/
 src/project.lock.json
+io.github.asdproject.theHatter/.vs/
+io.github.asdproject.theHatter/io.github.asdproject.theHatter.tests/io.github.asdproject.theHatter.tests.xproj.user
+io.github.asdproject.theHatter/io.github.asdproject.theHatter.tests/project.lock.json
+io.github.asdproject.theHatter/io.github.asdproject.theHatter/io.github.asdproject.theHatter.xproj.user
+io.github.asdproject.theHatter/io.github.asdproject.theHatter/project.lock.json

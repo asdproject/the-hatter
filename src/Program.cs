@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication
+﻿namespace io.github.asdproject.theHatter
 {
 	using System;
 
