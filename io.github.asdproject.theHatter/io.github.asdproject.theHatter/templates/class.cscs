@@ -1,1 +1,7 @@
-﻿
+﻿namespace @Model.NamespaceName
+{
+    public class @Model.ClassName
+    {
+    
+    }
+}

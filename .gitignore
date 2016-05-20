@@ -7,3 +7,9 @@ io.github.asdproject.theHatter/io.github.asdproject.theHatter.tests/io.github.as
 io.github.asdproject.theHatter/io.github.asdproject.theHatter.tests/project.lock.json
 io.github.asdproject.theHatter/io.github.asdproject.theHatter/io.github.asdproject.theHatter.xproj.user
 io.github.asdproject.theHatter/io.github.asdproject.theHatter/project.lock.json
+io.github.asdproject.theHatter/io.github.asdproject.theHatter.tests/bin
+io.github.asdproject.theHatter/.vscode
+io.github.asdproject.theHatter/io.github.asdproject.theHatter/bin
+io.github.asdproject.theHatter/io.github.asdproject.theHatter.tests/obj
+io.github.asdproject.theHatter/io.github.asdproject.theHatter.tests/.vscode
+io.github.asdproject.theHatter/io.github.asdproject.theHatter/obj
